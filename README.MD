@@ -5,7 +5,7 @@
 
 ## Regina Borges
 
-Data Science studente
+Data Science student
 
 **Background in:** Python, Machine Learning, Computer Vision, NLP
 
