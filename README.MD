@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="banner.png" >
-</p>
-
 ## Regina Borges
 
 Data Science student
