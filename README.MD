@@ -2,7 +2,6 @@
 
 Data Science Student
 
-**Background in:** Python, Machine Learning, Computer Vision, NLP
 
    
 </div>
