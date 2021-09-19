@@ -13,5 +13,5 @@ Data Science
   <a href = "mailto: reborges474@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/regina-borges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+  ![Snake animation](https://github.com/reginaborges/reginaborges/blob/output/github-contribution-grid-snake.svg)
 </div>
